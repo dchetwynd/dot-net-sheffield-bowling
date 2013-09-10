@@ -2,4 +2,4 @@ This is an attempt at the bowling kata (http://programmingpraxis.com/2009/08/11/
 
 The Sheffield .NET User Group meets on the first Thursday of each month and is open to all levels of .NET user, including those who don't currently know any .NET languages but would like to learn. To find out more, follow @dotnetsheff on Twitter or see the Google group:
 
-groups.google.com/group/dotnetsheffield
+http://groups.google.com/group/dotnetsheffield
